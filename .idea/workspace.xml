@@ -5,24 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3d35161c-59df-4f6a-820e-73519ae277d2" name="Changes" comment="Criação do MainMenu e da conexão com o DB">
-      <change afterPath="$PROJECT_DIR$/src/Sys/Compra/Livro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sys/Compra/LivroCarrinho.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sys/Compra/Pagina.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sys/DataBase/CarrinhoDAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sys/DataBase/LivroDAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sys/DataBase/RelatorioDAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sys/Menu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sys/Relatorio.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sqldialects.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MainMenu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MainMenu.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Sys/Carrinho.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Sys/DataBase/ProdutoDAO/ProdutoDAO.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Sys/DataBase/UserDAO/UserDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sys/DataBase/UserDAO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Sys/Login.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sys/Login.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Sys/Produto.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Sys/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sys/User.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -117,7 +100,7 @@
       <workItem from="1662493723143" duration="3691000" />
       <workItem from="1662497724832" duration="6841000" />
       <workItem from="1662506484010" duration="14972000" />
-      <workItem from="1662642396650" duration="114351000" />
+      <workItem from="1662642396650" duration="115296000" />
     </task>
     <task id="LOCAL-00001" summary="Criação do MainMenu e da conexão com o DB">
       <created>1662692619136</created>
